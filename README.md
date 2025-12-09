@@ -1,1 +1,1 @@
-# AsnanScanScriptActivator
+# AsnanScan Script Activator
