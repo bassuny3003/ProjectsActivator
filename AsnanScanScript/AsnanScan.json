@@ -1,23 +1,35 @@
 {
-  "status": {
-    "isAllActive": true,  
+  "globalStatus": {
+    "isAnyActive": true,
+    "customMessage": "مرحباً بكم في Ortho Report Designer",
+    "errorMessage": "مرحباً بكم في Ortho Report Designer"
+
   },
   "newUpdate": {
-    "version": "4.0.1.5",
-    "minPhotoshopVersion": "20.0"
+    "version": "26.6.05.4",
+    "minPhotoshopVersion": "20.0",
     "updateNote": "يوجد تحديث جديد لإصلاح مشاكل اللغة العربية",
-       "isCritical": false
+    "isCritical": false,
+    "downloadUrl": "https://github.com/AsnanScan/Ortho-Report-Designer/releases/download/v26.6.05.4/Ortho-Report-Designer-26.6.05.4.zip",
+    "releaseDate": "2026-06-02"
   },
+
 "LicensedDevices": {
-    "UUID-1234-5678-ABCD": {
-        "owner": "Dr. Ahmed - Kafr El Sheikh",
+    "ORD-/J8XFXS2/CNCMC008CF039B/": {
+        "owner": "Dr. Ahmed El Saied",
+        "xrayCenter": "Kafr El Sheikh",
         "status": "active",
-        "expiry": "2026-12-31"
+        "licenseTier": "Basic", 
+        "activationDate": "2026-05-01",
+        "expiryonDate": "2026-12-31"
     },
-    "UUID-9999-0000-ZZZZ": {
-        "owner": "Dental Center - 6th October",
+    "HWID-BFEBFBFF000906E3-XYZ": {
+        "owner": "Dr. Ahmed El Saied",
+        "xrayCenter": "6th October",
         "status": "inactive",
-        "expiry": "2026-05-01"
+        "licenseTier": "Basic", 
+        "activationDate": "2026-05-01",
+        "expiryonDate": "2026-12-31"
     }
   }
 }
