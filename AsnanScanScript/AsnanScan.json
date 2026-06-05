@@ -1,0 +1,23 @@
+{
+  "status": {
+    "isAllActive": true,  
+  },
+  "newUpdate": {
+    "version": "4.0.1.5",
+    "minPhotoshopVersion": "20.0"
+    "updateNote": "يوجد تحديث جديد لإصلاح مشاكل اللغة العربية",
+       "isCritical": false
+  },
+"LicensedDevices": {
+    "UUID-1234-5678-ABCD": {
+        "owner": "Dr. Ahmed - Kafr El Sheikh",
+        "status": "active",
+        "expiry": "2026-12-31"
+    },
+    "UUID-9999-0000-ZZZZ": {
+        "owner": "Dental Center - 6th October",
+        "status": "inactive",
+        "expiry": "2026-05-01"
+    }
+  }
+}
