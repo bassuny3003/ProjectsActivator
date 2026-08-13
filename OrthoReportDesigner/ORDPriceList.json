@@ -1,0 +1,19 @@
+{
+  "scriptPrice": {
+    "fileLastUpdate": "000-00-00",
+    "currency": "EGP",
+    "basicMonthly": {
+      "priceMonthly": 300.00,
+      "priceYearly": 3600.00
+    },
+    "yearlyPro": {
+      "priceMonthly": 210.00,
+      "priceYearly": 2520.00
+    },
+    "yearlyDiamond": {
+      "priceMonthly": 250.00,
+      "priceYearly": 3000.00
+    }
+  }
+}
+
